@@ -1,0 +1,11 @@
+[Unit]
+Description=Sunshine Servive
+After=multi-user.target
+
+[Service]
+Restart=always
+Type=simple
+ExecStart=/usr/bin/python3 /home/orange/sunshine/sunshine.py
+
+[Install]
+WantedBy=multi-user.target

@@ -3,7 +3,7 @@
 This is my set of tools for managing growbox with Raspberry and Python.
 
 The most interesting part in my opinion is solution for fan speed management.
-I failed with dimmer-moniles and ended with set of capacitors connected thru
+I failed with dimmer-modules and ended with set of capacitors connected thru
 relays and in parallel, so I can change Capacity turning on and off some
 capacitors. I made some tests and chosen handy nominals of capacitors to
 have near 10 steps between fully off and bypass. Keep in mind that lowest

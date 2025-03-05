@@ -1,0 +1,2 @@
+* * * * * python3 /opt/sensor_bme280.py | sponge /var/lib/prometheus/node-exporter/bme280.prom
+* * * * * python3 /opt/sensor_mh_z19.py

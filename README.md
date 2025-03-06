@@ -1,6 +1,5 @@
 # sunshine
-
-This is my set of tools for managing growbox with Raspberry and Python.
+My set of tools for managing growbox with Raspberry and Python.
 
 The most interesting part in my opinion is solution for fan speed management.
 I failed with dimmer-modules and ended with set of capacitors connected thru
